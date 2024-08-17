@@ -9,4 +9,4 @@ To compile the program, run:
 
     nesasm hello_nes.asm
 
-This will generate a hopefully funcitonal .nes file that can be run by an emulator like [FCEUX](https://github.com/TASEmulators/fceux).
+This will generate a (hopefully) funcitonal .nes file that can be run by an emulator like [FCEUX](https://github.com/TASEmulators/fceux).
